@@ -23,6 +23,7 @@ import com.vaadin.flow.router.PageTitle;
 import com.example.application.views.main.MainView;
 import com.example.application.views.helloworld.HelloWorldView;
 import com.example.application.views.about.AboutView;
+import com.vaadin.flow.theme.lumo.Lumo;
 
 /**
  * The main view is a top-level placeholder for other views.
